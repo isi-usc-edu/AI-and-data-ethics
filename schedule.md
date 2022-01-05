@@ -1,59 +1,56 @@
 ---
 layout: default
-title: USC AI Futures Symposium on AI with Common Sense
+title: Special Training Sessions on AI and Data Ethics
 ---
 ---
 
 
-The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_2vcznEeMQsO44aYZpk8RIg).
+The sessions will be virtual, and will be recorded.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after [registration](https://isi-usc-edu.github.io/AI-and-data-ethics/register).
 
 
-## Tuesday December 7, 2021
+## Tuesday January 11 2022 at 4-6pm PST
 
-| Start | End | Session |  |
-| ---- | ---- | --------- | ------------------- |   
-| 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
-|  |  | [Yannis Yortsos](https://viterbi.usc.edu/directory/faculty/Yortsos/Yannis) <br> Dean of the Viterbi School of Engineering; Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering | <img src="images/Yortsos.jpg" width="500" /> |
-|  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
-| 9:15 | 10:00 | **Session I: Commonsense Reasoning**  |  |
-|  |  | Session chair: [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="1250" /> |
-|  |  | *Open-World Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
-|  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, Viterby School of Engineering | <img src="images/Ciosici.jpeg" width="500" /> |
-|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br>Professor of Computer Science and Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
-|  |  | *Explaining with Common Sense* <br> [Xiang Ren](https://shanzhenren.github.io/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="750" /> |
-| 10:00 | 10:15 | **Break**  |  |
-| 10:15 | 11:00 | **Session II: Commonsense Knowledge**  |  |
-|  |  | Session chair: [Keith Burghardt](https://www.isi.edu/people/keithab/about) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Burghardt.jpeg" width="500" /> |
-|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Research Associate Professor of Computer Science; Principal Scientist and Director of the AI Division, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="500" /> |
-|  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
-|  |  | *Robust Knowledge Acquisition* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Chen.jpeg" width="500" /> |
-|  |  | *Crowdsourcing Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute; Director, Data Science Programs, Computer Science Department; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="1250" /> |
-| 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:00 | <a href="https://www.isi.edu/events/2171/models-of-core-common-sense-in-infancy/">**Invited Talk: Models of core common sense in infancy**</a> <br/>[Tomer Ullman](https://www.tomerullman.org/) <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
+###Session I: Data Ethics and Privacy
+
+**Topics**
+
+* Privacy versus anonymity
+* Informed consent and individual decisions
+* Online privacy
+* Business value of data
+* Privacy technologies and algorithms
+* Implications of security compromises/subversion
+* Personal versus collective responsibility
+* Privacy regulations
+* Privacy challenges
+* Recommendations for data science professionals
 
 
-## Wednesday December 8, 2021
+**Speakers**
 
-| Start | End | Session |  |
-| ---- | ---- | --------- | ------------------- |   
-| 9:00 | 9:45 | **Session III: Common Sense for Creativity** |  |
-|  |  | Session chair: [Kallirroi Georgila](https://people.ict.usc.edu/~kgeorgila/) <br> Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Lead, Institute for Creative Technologies, Viterbi School of Engineering | <img src="images/Georgila.jpeg" width="500" /> |
-|  |  | *Generating New Ideas* <br> [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Industrial and Systems Engineering; Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
-|  |  | *Biases in Common Sense* <br> [Fred Morstatter](https://isi.edu/~fredmors/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Morstatter.jpg" width="500" /> |
-|  |  | *Explaining Stories and Dialogues* <br> [Jay Pujara](https://www.jaypujara.org/) <br> Director of the Center on Knowledge Graphs, Information Sciences Institute; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Pujara.png" width="500" /> |
-|  |  | *Negotiating Agents* <br> [Emmanuel Johnson](https://www.exjohnson.com/) <br> Postdoctoral Research Associate, Information Science Institute, Viterbi School of Engineering | <img src="images/Johnson.jpeg" width="500" /> |
-| 9:45 | 10:00 | **Break**  |  |
-| 10:00 | 10:45 | **Session IV: Common Sense in AI Agents and Robots** |  |
-|  |  | Session chair: [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | <img src="images/Koenig.jpg" width="500" /> |
-|  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Research Professor of Computer Science; Director for Virtual Humans Research, Institute for Creative Technologies, Viterbi School of Engineering | <img src="images/Gratch.jpeg" width="500" /> |
-|  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Nikolaidis.jpeg" width="500" /> |
-|  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> Chan Soon-Shiong Distinguished Professor of Computer Science, Neuroscience, and Pediatrics, Viterbi School of Engineering | <img src="images/Mataric.jpg" width="500" /> |
-|  |  | *User-Centric Explainable AI* <br> [Michael Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
-| 10:45 | 11:00 | **Break**  |  |
-| 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
-|  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO, Luminoso  | <img src="images/Havasi.png" width="500" /> |
-|  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
-|  |  | [Vered Schwartz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
-| 11:45 | 12:00 | **Closing Remarks**  |  |
-|  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
-|  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute; Director, Data Science Programs, Computer Science Department; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="875" /> |
+* Clifford Neuman, Computer Science
+* Michael Orosz, Information Sciences Institute
+* Tatyana Ryutov, Computer Science
+
+
+## Tuesday January 18 2022 at 12-2pm PST
+
+###Session II: AI Ethics and Responsibility
+
+**Topics**
+
+* Potential harm/misrepresentation of AI algorithms Automated versus human-in-the-loop AI systems
+* Fairness and biases in machine learningSound design of AI algorithms and ML training
+* Scoping limitations of AI and ML systems
+* User interaction feedback loops
+* Explanation and transparency
+* Responsible AI
+* Guiding principles for AI ethics policies
+
+**Speakers**
+
+* Keith Burghardt, Information Sciences Institute
+* Sven Koenig, Computer Science
+* Kristina Lerman, Information Sciences Institute
+* Fred Morstatter, Information Sciences Institute
+

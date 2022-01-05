@@ -5,12 +5,12 @@ title: Special Training Sessions on AI and Data Ethics
 ---
 
 
-The sessions will be virtual, and will be recorded.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after [registration](https://isi-usc-edu.github.io/AI-and-data-ethics/register).
+The sessions will be virtual, and will be recorded.  Links to attend the sessions will be emailed privately after [registration](https://isi-usc-edu.github.io/AI-and-data-ethics/register).
 
 
-## Tuesday January 11 2022 at 4-6pm PST
+## Tuesday January 11 2022 at 4-6pm PST ##
 
-###Session I: Data Ethics and Privacy
+### Session I: Data Ethics and Privacy ###
 
 **Topics**
 
@@ -33,9 +33,9 @@ The sessions will be virtual, and will be recorded.  All times below are in PST 
 * Tatyana Ryutov, Computer Science
 
 
-## Tuesday January 18 2022 at 12-2pm PST
+## Tuesday January 18 2022 at 12-2pm PST ##
 
-###Session II: AI Ethics and Responsibility
+### Session II: AI Ethics and Responsibility ###
 
 **Topics**
 

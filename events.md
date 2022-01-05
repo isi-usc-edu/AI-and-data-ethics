@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USC AI Futures Symposium on AI with Common Sense
+title: Special Training Sessions on AI and Data Ethics
 ---
 ---
 

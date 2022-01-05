@@ -5,7 +5,7 @@ title: Special Training Sessions on AI and Data Ethics
 ---
 
 
-<img src="images/ethics.png" alt="ethics-info" width="1000" />
+<img src="images/AI-Data-Ethics.jpg" alt="ethics-info" width="1000" />
 
 
 These special training sessions are designed for students and faculty who want to learn about the ethical concerns in AI and data science, the technologies available for privacy and responsible use of data, the policies and regulations that are currently in place in this area, and the many open questions that need to be addressed.  They will be taught by Viterbi faculty and instructors who teach ethics and privacy courses and sections.  The sessions will be held online.

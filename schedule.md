@@ -21,7 +21,7 @@ The sessions will be virtual, and will be recorded.  Links to attend the session
 ## Tuesday January 18 2022 at 12-2pm PST ##
 
   
-| **Session II: AI Ethics and Responsibility** |  <a href="https://youtu.be/xyz">**Video Recording**</a> |
+| **Session II: AI Ethics and Responsibility** |  |
 | --------- | ------------------- |   
 | [Keith Burghardt](https://www.isi.edu/people/keithab/about)  | <img src="images/Burghardt.jpeg" width="100" /> |
 | [Sven Koenig](http://idm-lab.org/)  | <img src="images/Koenig.jpg" width="100" /> |

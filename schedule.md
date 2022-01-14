@@ -20,3 +20,11 @@ The sessions will be virtual, and will be recorded.  Links to attend the session
 
 ## Tuesday January 18 2022 at 12-2pm PST ##
 
+  
+| **Session II: AI Ethics and Responsibility** |  <a href="https://youtu.be/xyz">**Video Recording**</a> |
+| --------- | ------------------- |   
+| [Keith Burghardt](https://www.isi.edu/people/keithab/about)  | <img src="images/Burghardt.jpg" width="500" /> |
+| [Sven Koenig](http://idm-lab.org/)  | <img src="images/Koenig.jpg" width="500" /> |
+| [Kristina Lerman](https://www.isi.edu/people/lerman/about)  | <img src="images/Lerman.jpg" width="500" /> |
+| [Fred Morstatter](https://www.isi.edu/~fredmors/)  | <img src="images/Morstatter.jpg" width="500" /> |
+

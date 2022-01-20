@@ -21,7 +21,7 @@ The sessions will be virtual, and will be recorded.  Links to attend the session
 ## Tuesday January 18 2022 at 12-2pm PST ##
 
   
-| **Session II: AI Ethics and Responsibility** |  |
+| **Session II: AI Ethics and Responsibility** | <a href="https://youtu.be/kxxXNA7gaJE">**Video Recording**</a> |
 | --------- | ------------------- |   
 | **Ethical Considerations for AI and Machine Learning** <br> [Kristina Lerman](https://www.isi.edu/people/lerman/about) is a Principal Scientist at the USC Information Sciences Institute and holds a joint appointment as a Research Professor in the Computer Science Department. Trained as a physicist, she now applies network analysis and machine learning to problems in computational social science, including crowdsourcing, social network and social media analysis. Lerman has studied how biases in data (e.g., Simpson’s paradox) and networks (e.g., Friendship paradox) affect our understanding of social systems. She co-developed and co-teaches (with Fred Morstatter) a graduate-level class on “Fairness and Bias in AI”. <br> <a href="Slides-Lerman.pdf">SLIDES  | <img src="images/Lerman.jpg" width="500" /> |
 | **Ethical Aspects for Autonomous AI Systems** [Sven Koenig](http://idm-lab.org/) s a Professor of Computer Science at USC. He is a member of the executive committee of the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, co-founded the AAAI/ACM Conference on AI, Ethics, and Society in 2018, and co-edited a special issue of the Artificial Intelligence journal on ethics for autonomous systems. <br> <a href="Slides-Koenig.pdf">SLIDES | <img src="images/Koenig.jpg" width="500" /> |

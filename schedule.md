@@ -5,10 +5,6 @@ title: Special Training Sessions on AI and Data Ethics
 ---
 
 
-The sessions will be virtual, and will be recorded.  Links to attend the sessions will be emailed privately after [registration](https://isi-usc-edu.github.io/AI-and-data-ethics/register).
-
-
-
 ## Tuesday January 11 2022 at 4-6pm PST ##
 
 | **Session I: Data Ethics and Privacy** |  <a href="https://youtu.be/xYqY4QbFQOU">**Video Recording**</a> |
